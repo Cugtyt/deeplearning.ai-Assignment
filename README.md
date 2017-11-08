@@ -2,10 +2,10 @@
 
 Assignments of deeplearning.ai specialization coursers by Andrew Ng in Coursera.
 
-References:
+**References:**
 
-    [Coursera](https://www.coursera.org)  
-    [deeplearning.ai](https://www.deeplearning.ai/)
+[Coursera](https://www.coursera.org)  
+[deeplearning.ai](https://www.deeplearning.ai/)
     
    
    
